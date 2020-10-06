@@ -34,7 +34,7 @@ Merging JavaScript and the DOM
     | `br` | Line<br />Break |
     | `button` | <button>Button Text</button> |
     | `h1`, `h2`, etc. | <h2>H2 Text</h2> |
-    | `input` | <input value="Text Input"></input>
+    | `input` | <input value="Text Input"></input> |
 
 ### JavaScript
 ```javascript
