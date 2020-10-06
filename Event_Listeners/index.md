@@ -13,6 +13,7 @@ Merging JavaScript and the DOM
     ```html
     <div>
         Division block
+        <h1>BIG TEXT</h1>
         <p>
             This is a simple paragraph of text.
             <br /><br />
@@ -26,16 +27,6 @@ Merging JavaScript and the DOM
         <input id="inputBoxID" value="Text Input"></input>
     </div>
     ```
-* Some common `HTML` tags:
-
-| Name | Example |
-|:-----|:--------|
-| `div` | <div style="background-color:green;">Example</div>
-| `p` | <p>Paragraph</p> |
-| `br` | Line<br />Break |
-| `button` | <button>Button Text</button> |
-| `h1`, `h2`, etc. | <h2>H2 Text</h2> |
-| `input` | <input value="Text Input"></input> |
 
 ### JavaScript
 ```javascript
