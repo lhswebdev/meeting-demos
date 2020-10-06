@@ -24,7 +24,7 @@ Merging JavaScript and the DOM
                 Link to home page
             </a>
         </p>
-        <input id="inputBoxID" value="Text Input"></input>
+        <input id="inputBoxID" value="Text Input" />
     </div>
     ```
 
@@ -124,7 +124,7 @@ document.getElementById("button1").addEventListener("click", function(event) {
 
 ### Input Keypress Event
 
-<input id="input1" value="input1"></input>
+<input id="input1" value="input1" />
 
 ```javascript
 document.getElementById("input1").addEventListener("keydown", function(event) {
@@ -145,9 +145,9 @@ document.getElementById("redBox").addEventListener("mouseover", function(event) 
 ### Common Function
 You can also use a common function for multiple event listeners.
 
-<input id="input1" value="input1"></input>
-<input id="input2" value="input2"></input>
-<input id="input3" value="input3"></input>
+<input id="input1" value="input1" />
+<input id="input2" value="input2" />
+<input id="input3" value="input3" />
 
 ```javascript
 function callback(event) {
