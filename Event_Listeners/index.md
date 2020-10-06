@@ -121,6 +121,7 @@ Detect user actions!
 Copy paste the code into your JS console to try it out!
 
 ### Button Click Event
+
 <button id="button1">button1</button>
 
 ```javascript
@@ -130,6 +131,7 @@ document.getElementById("button1").addEventListener("click", function(event) {
 ```
 
 ### Input Keypress Event
+
 <input id="input1" value="input1"></input>
 
 ```javascript
@@ -139,6 +141,7 @@ document.getElementById("input1").addEventListener("keydown", function(event) {
 ```
 
 ### Div Mouseover Event
+
 <div style="width: 100px; height: 100px; background-color:red;" id="redBox"></div>
 
 ```javascript
