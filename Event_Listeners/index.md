@@ -124,10 +124,10 @@ document.getElementById("button1").addEventListener("click", function(event) {
 
 ### Input Keypress Event
 
-<input id="input1" value="input1" />
+<input id="input" value="input" />
 
 ```javascript
-document.getElementById("input1").addEventListener("keydown", function(event) {
+document.getElementById("input").addEventListener("keydown", function(event) {
     console.log("Key was pressed!", event.key);
 });
 ```
